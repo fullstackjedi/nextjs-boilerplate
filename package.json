@@ -14,6 +14,7 @@
     "@chakra-ui/react": "^1.5.1",
     "@emotion/react": "^11",
     "@emotion/styled": "^11",
+    "axios": "^0.21.1",
     "eslint": "^7.24.0",
     "eslint-config-prettier": "^8.2.0",
     "eslint-plugin-jsx-a11y": "^6.4.1",
@@ -23,9 +24,14 @@
     "framer-motion": "^4",
     "lint-staged": "^10.5.4",
     "next": "^11.0.1",
+    "next-auth": "^3.28.0",
     "prettier": "^2.2.1",
     "react": "^17.0.2",
-    "react-dom": "^17.0.2"
+    "react-dom": "^17.0.2",
+    "react-icons": "^4.2.0",
+    "react-query": "^3.21.0",
+    "react-toastify": "^7.0.4",
+    "zustand": "^3.5.9"
   },
   "devDependencies": {
     "@types/react": "^17.0.3",
