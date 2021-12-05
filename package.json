@@ -23,7 +23,7 @@
     "eslint-plugin-react-hooks": "^4.2.0",
     "framer-motion": "^4",
     "lint-staged": "^10.5.4",
-    "next": "^11.0.1",
+    "next": "12",
     "next-auth": "^3.28.0",
     "prettier": "^2.2.1",
     "react": "^17.0.2",
